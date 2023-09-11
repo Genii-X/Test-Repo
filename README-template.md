@@ -19,13 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![View Screenshot](./screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Genii-X/Test-Repo.git)
-- Live Site URL: [Add live site URL here](https://genii-x.github.io/Test-Repo/)
+- Solution URL: (https://github.com/Genii-X/Test-Repo.git)
+- Live Site URL: (https://genii-x.github.io/Test-Repo/)
 
 ## My process
 
