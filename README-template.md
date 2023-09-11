@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![View Screenshot](Screenshot.png)
+![View Screenshot](./Screenshot.png)
 
 
 ### Links
@@ -45,6 +45,5 @@ I going to try to acquaint myself various layout properties, CSS flexbox and CSS
 
 ## Author
 
-- Website - [Genii](https://www.your-site.com)
 - Frontend Mentor - [Genii](https://www.frontendmentor.io/profile/Genii-X)
 - Twitter - [Genii](https://www.twitter.com/@mild_mide)
