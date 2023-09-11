@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![View Screenshot](./Screenshot.png)
+![View Screenshot](Screenshot.png)
 
 
 ### Links
@@ -38,24 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 I learnt how to horizontally and vertically center an element in its parent.
-
-To see how you can add code snippets, see below:
-
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
